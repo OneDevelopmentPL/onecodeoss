@@ -14,10 +14,10 @@
   "contributes": {
     "themes": [
       {
-        "id": "Default Dark+",
-        "label": "%darkPlusColorThemeLabel%",
+        {
+        "label": "OneCode Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark_plus.json"
+        "path": "./themes/onecode_default.json"
       },
       {
         "id": "Default Dark Modern",
