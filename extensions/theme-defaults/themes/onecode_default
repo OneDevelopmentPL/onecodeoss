@@ -1,0 +1,27 @@
+{
+  "name": "OneCode Dark",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#16161A",
+    "editor.foreground": "#E0E0E0",
+    "activityBar.background": "#1F1F29",
+    "sideBar.background": "#1B1B23",
+    "statusBar.background": "#5865F2",
+    "tab.activeBackground": "#7289DA",
+    "titleBar.activeBackground": "#5865F2"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": { "foreground": "#5C6370" }
+    },
+    {
+      "scope": "keyword",
+      "settings": { "foreground": "#C678DD" }
+    },
+    {
+      "scope": "string",
+      "settings": { "foreground": "#98C379" }
+    }
+  ]
+}
