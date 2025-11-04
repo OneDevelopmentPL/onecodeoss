@@ -3,6 +3,7 @@
 	"nameLong": "OneCode - OSS",
 	"applicationName": "onecode-oss",
 	"dataFolderName": ".onecode-oss",
+	"defaultTheme": "OneCode Dark",
 	"win32MutexName": "onecodeoss",
 	"licenseName": "MIT",
 	"licenseUrl": "https://github.com/microsoft/vscode/blob/main/LICENSE.txt",
